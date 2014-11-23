@@ -7,5 +7,5 @@ Create a new bookmark with the code in pid-search.min.js, prefixed with `javascr
 
 Future plans are to implement some of the other methods of mark retrieval, as described here:
 
-http://www.ngs.noaa.gov/cgi-bin/get\_mark\_list.prl
+http://www.ngs.noaa.gov/cgi-bin/get_mark_list.prl
 
